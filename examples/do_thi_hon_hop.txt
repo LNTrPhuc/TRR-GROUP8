@@ -1,0 +1,11 @@
+Circle
+A -> B 6
+B -> A 20
+A C 2
+B C 1
+B -> D 5
+C E 10
+D -> E 2
+E -> F 3
+F D 6
+C -> F 12
