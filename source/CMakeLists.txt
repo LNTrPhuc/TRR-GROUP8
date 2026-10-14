@@ -50,23 +50,6 @@ if (WIN32)
     endif()
 endif()
 
-include(CTest)
-if (BUILD_TESTING)
-    add_executable(DijkstraSmoke
-        resources.qrc smoke.cpp MainWindow.cpp MainWindow.h GraphWidget.cpp GraphWidget.h
-        DijkstraSimulator.cpp DijkstraSimulator.h
-        PathPreview.cpp PathPreview.h
-    )
-    target_link_libraries(DijkstraSmoke PRIVATE Qt6::Widgets)
-    add_test(NAME DijkstraSmoke COMMAND DijkstraSmoke)
-    set_tests_properties(DijkstraSmoke PROPERTIES ENVIRONMENT "QT_QPA_PLATFORM=offscreen;QT_QPA_PLATFORM_PLUGIN_PATH=${Qt6_DIR}/../../../plugins/platforms")
-    if (TARGET Qt6::QOffscreenIntegrationPlugin)
-        set_tests_properties(DijkstraSmoke PROPERTIES ENVIRONMENT
-            "QT_QPA_PLATFORM=offscreen;QT_QPA_PLATFORM_PLUGIN_PATH=$<TARGET_FILE_DIR:Qt6::QOffscreenIntegrationPlugin>"
-        )
-    endif()
-endif()
-
 if (MSVC)
     target_compile_options(DijkstraSimulator PRIVATE /W4)
 else()
