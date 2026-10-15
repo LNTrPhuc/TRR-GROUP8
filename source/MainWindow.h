@@ -6,7 +6,6 @@
 #include <QElapsedTimer>
 #include <QLabel>
 #include <QComboBox>
-
 #include "DijkstraSimulator.h"
 #include "GraphWidget.h"
 
