@@ -1,0 +1,88 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"source/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "DijkstraSimulator_autogen_timestamp_deps::@411ffd8adc737496fe19"
+		}
+	],
+	"id" : "DijkstraSimulator_autogen::@411ffd8adc737496fe19",
+	"isGeneratorProvided" : true,
+	"name" : "DijkstraSimulator_autogen",
+	"orderDependencies" : 
+	[
+		{
+			"id" : "Qt6::moc::@411ffd8adc737496fe19"
+		},
+		{
+			"id" : "Qt6::uic::@411ffd8adc737496fe19"
+		},
+		{
+			"id" : "DijkstraSimulator_autogen_timestamp_deps::@411ffd8adc737496fe19"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "source",
+		"source" : "source"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/source/CMakeFiles/DijkstraSimulator_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/source/CMakeFiles/DijkstraSimulator_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/source/DijkstraSimulator_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

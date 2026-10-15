@@ -1,0 +1,47 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"source/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "DijkstraSimulator_autogen_timestamp_deps::@411ffd8adc737496fe19",
+	"isGeneratorProvided" : true,
+	"name" : "DijkstraSimulator_autogen_timestamp_deps",
+	"orderDependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::moc::@411ffd8adc737496fe19"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::uic::@411ffd8adc737496fe19"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Qt6::Widgets::@411ffd8adc737496fe19"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "source",
+		"source" : "source"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

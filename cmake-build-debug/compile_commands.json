@@ -1,0 +1,44 @@
+[
+{
+  "directory": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug",
+  "command": "\"D:\\CLion 2026.1.3\\bin\\mingw\\bin\\g++.exe\" -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug/source/DijkstraSimulator_autogen/include\" -isystem D:/QT6/6.11.2/mingw_64/include/QtWidgets -isystem D:/QT6/6.11.2/mingw_64/include -isystem D:/QT6/6.11.2/mingw_64/include/QtCore -isystem D:/QT6/6.11.2/mingw_64/mkspecs/win32-g++ -isystem D:/QT6/6.11.2/mingw_64/include/QtGui -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o source\\CMakeFiles\\DijkstraSimulator.dir\\DijkstraSimulator_autogen\\mocs_compilation.cpp.obj -c \"D:\\TRR-GROUP8-main (1)\\N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc\\cmake-build-debug\\source\\DijkstraSimulator_autogen\\mocs_compilation.cpp\"",
+  "file": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug/source/DijkstraSimulator_autogen/mocs_compilation.cpp",
+  "output": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug/source/CMakeFiles/DijkstraSimulator.dir/DijkstraSimulator_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug",
+  "command": "\"D:\\CLion 2026.1.3\\bin\\mingw\\bin\\g++.exe\" -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug/source/DijkstraSimulator_autogen/include\" -isystem D:/QT6/6.11.2/mingw_64/include/QtWidgets -isystem D:/QT6/6.11.2/mingw_64/include -isystem D:/QT6/6.11.2/mingw_64/include/QtCore -isystem D:/QT6/6.11.2/mingw_64/mkspecs/win32-g++ -isystem D:/QT6/6.11.2/mingw_64/include/QtGui -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o source\\CMakeFiles\\DijkstraSimulator.dir\\main.cpp.obj -c \"D:\\TRR-GROUP8-main (1)\\N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc\\source\\main.cpp\"",
+  "file": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/source/main.cpp",
+  "output": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug/source/CMakeFiles/DijkstraSimulator.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug",
+  "command": "\"D:\\CLion 2026.1.3\\bin\\mingw\\bin\\g++.exe\" -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug/source/DijkstraSimulator_autogen/include\" -isystem D:/QT6/6.11.2/mingw_64/include/QtWidgets -isystem D:/QT6/6.11.2/mingw_64/include -isystem D:/QT6/6.11.2/mingw_64/include/QtCore -isystem D:/QT6/6.11.2/mingw_64/mkspecs/win32-g++ -isystem D:/QT6/6.11.2/mingw_64/include/QtGui -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o source\\CMakeFiles\\DijkstraSimulator.dir\\MainWindow.cpp.obj -c \"D:\\TRR-GROUP8-main (1)\\N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc\\source\\MainWindow.cpp\"",
+  "file": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/source/MainWindow.cpp",
+  "output": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug/source/CMakeFiles/DijkstraSimulator.dir/MainWindow.cpp.obj"
+},
+{
+  "directory": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug",
+  "command": "\"D:\\CLion 2026.1.3\\bin\\mingw\\bin\\g++.exe\" -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug/source/DijkstraSimulator_autogen/include\" -isystem D:/QT6/6.11.2/mingw_64/include/QtWidgets -isystem D:/QT6/6.11.2/mingw_64/include -isystem D:/QT6/6.11.2/mingw_64/include/QtCore -isystem D:/QT6/6.11.2/mingw_64/mkspecs/win32-g++ -isystem D:/QT6/6.11.2/mingw_64/include/QtGui -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o source\\CMakeFiles\\DijkstraSimulator.dir\\GraphWidget.cpp.obj -c \"D:\\TRR-GROUP8-main (1)\\N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc\\source\\GraphWidget.cpp\"",
+  "file": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/source/GraphWidget.cpp",
+  "output": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug/source/CMakeFiles/DijkstraSimulator.dir/GraphWidget.cpp.obj"
+},
+{
+  "directory": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug",
+  "command": "\"D:\\CLion 2026.1.3\\bin\\mingw\\bin\\g++.exe\" -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug/source/DijkstraSimulator_autogen/include\" -isystem D:/QT6/6.11.2/mingw_64/include/QtWidgets -isystem D:/QT6/6.11.2/mingw_64/include -isystem D:/QT6/6.11.2/mingw_64/include/QtCore -isystem D:/QT6/6.11.2/mingw_64/mkspecs/win32-g++ -isystem D:/QT6/6.11.2/mingw_64/include/QtGui -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o source\\CMakeFiles\\DijkstraSimulator.dir\\PathPreview.cpp.obj -c \"D:\\TRR-GROUP8-main (1)\\N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc\\source\\PathPreview.cpp\"",
+  "file": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/source/PathPreview.cpp",
+  "output": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug/source/CMakeFiles/DijkstraSimulator.dir/PathPreview.cpp.obj"
+},
+{
+  "directory": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug",
+  "command": "\"D:\\CLion 2026.1.3\\bin\\mingw\\bin\\g++.exe\" -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug/source/DijkstraSimulator_autogen/include\" -isystem D:/QT6/6.11.2/mingw_64/include/QtWidgets -isystem D:/QT6/6.11.2/mingw_64/include -isystem D:/QT6/6.11.2/mingw_64/include/QtCore -isystem D:/QT6/6.11.2/mingw_64/mkspecs/win32-g++ -isystem D:/QT6/6.11.2/mingw_64/include/QtGui -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o source\\CMakeFiles\\DijkstraSimulator.dir\\DijkstraSimulator.cpp.obj -c \"D:\\TRR-GROUP8-main (1)\\N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc\\source\\DijkstraSimulator.cpp\"",
+  "file": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/source/DijkstraSimulator.cpp",
+  "output": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug/source/CMakeFiles/DijkstraSimulator.dir/DijkstraSimulator.cpp.obj"
+},
+{
+  "directory": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug",
+  "command": "\"D:\\CLion 2026.1.3\\bin\\mingw\\bin\\g++.exe\" -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -I\"D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug/source/DijkstraSimulator_autogen/include\" -isystem D:/QT6/6.11.2/mingw_64/include/QtWidgets -isystem D:/QT6/6.11.2/mingw_64/include -isystem D:/QT6/6.11.2/mingw_64/include/QtCore -isystem D:/QT6/6.11.2/mingw_64/mkspecs/win32-g++ -isystem D:/QT6/6.11.2/mingw_64/include/QtGui -g -std=gnu++20 -fdiagnostics-color=always -Wall -Wextra -Wpedantic -o source\\CMakeFiles\\DijkstraSimulator.dir\\DijkstraSimulator_autogen\\EWIEGA46WW\\qrc_resources.cpp.obj -c \"D:\\TRR-GROUP8-main (1)\\N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc\\cmake-build-debug\\source\\DijkstraSimulator_autogen\\EWIEGA46WW\\qrc_resources.cpp\"",
+  "file": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug/source/DijkstraSimulator_autogen/EWIEGA46WW/qrc_resources.cpp",
+  "output": "D:/TRR-GROUP8-main (1)/N8_HaMinhThuan_HuynhDucGiaLac_LeNguyenTrongPhuc/cmake-build-debug/source/CMakeFiles/DijkstraSimulator.dir/DijkstraSimulator_autogen/EWIEGA46WW/qrc_resources.cpp.obj"
+}
+]
